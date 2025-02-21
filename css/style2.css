@@ -1,7 +1,8 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Isaac Ip
+* Created on: Feb 2025
 * This file contains the CSS for index.html
 */
+
 
 .mdl-layout__header-row {
   justify-content: center;
@@ -12,10 +13,12 @@
   padding-left: 15pt;
   padding-right: 15pt;
   padding-top: 15pt;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .mdl-textfield__error {
   color: rgb(21, 0, 255);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .page-content {
